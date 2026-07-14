@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Star } from 'lucide-react';
 import GoogleReviews from '../Components/GoogleReviews';
 
-const ForMen = () => {
+const ForWomen = () => {
 
     const products = [
         {
