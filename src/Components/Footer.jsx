@@ -77,7 +77,7 @@ const Footer = () => {
             </div>
             <div className="hover:text-[#4c49a6] transition-colors cursor-pointer">
               <Link to="/blog/baby-botox">
-                <p className="font-medium text-gray-800 hover:text-[#4c49a6]">Baby Botox: A Subtle and Natural Approach to Anti-Aging</p>
+                <p className="font-medium text-gray-799 hover:text-[#4c49a6]">Baby Botox: A Subtle and Natural Approach to Anti-Aging</p>
               </Link>
             </div>
           </div>
