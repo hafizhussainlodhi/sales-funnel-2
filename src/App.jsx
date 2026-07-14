@@ -2,18 +2,18 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import './index.css'
 
 // Layout Components
-import Navbar from './components/Navbar'
-import Footer from './components/Footer'
+import Navbar from './Components/Navbar'
+import Footer from './Components/Footer'
 
 // Pages
-import Home from './pages/Home'
-import ForMen from './pages/ForMen'
-import ForWomen from './pages/ForWomen'
-import Supplements from './pages/Supplements'
-import Blog from './pages/Blog'
-import BlogDetails from './pages/BlogDetalis'
-import Team from './pages/Team'
-import Contact from './pages/Contact'
+import Home from './Pages/Home'
+import ForMen from './Pages/ForMen'
+import ForWomen from './Pages/ForWomen'
+import Supplements from './Pages/Supplements'
+import Blog from './Pages/Blog'
+import BlogDetails from './Pages/BlogDetalis'
+import Team from './Pages/Team'
+import Contact from './Pages/Contact'
 
 function App() {
   return (
